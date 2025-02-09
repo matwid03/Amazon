@@ -1,6 +1,6 @@
 # Simple Amazon Clone
 
-This project is a simple clone of Amazon's main page and shopping cart, created using **HTML** and **JavaScript**. It was built as part of a course to practice web development basics, focusing on replicating the layout and design of Amazon's website, with minimal JavaScript functionality for the shopping cart. It was developed as part of a course to enhance web development skills, focusing on basic front-end design and JavaScript functionality.
+This project is a simple clone of Amazon's main page and shopping cart, created using **HTML** and **JavaScript**. It was built as part of a course to practice web development basics, focusing on replicating the layout and design of Amazon's website, with minimal JavaScript functionality for the shopping cart. 
 
 ### 1. Main Page
 The main page replicates the look and feel of Amazon's homepage.
