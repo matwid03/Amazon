@@ -20,4 +20,4 @@ The shopping cart page allows users to:
 
 ##Screenshots
 ![Main Page Screenshot](screenshots/s1.png)
-![Cart Page Screenshot](screenshots/s2.png
+![Cart Page Screenshot](screenshots/s2.png)
