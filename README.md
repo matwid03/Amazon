@@ -18,6 +18,7 @@ The shopping cart page allows users to:
 - **CSS** – for styling and layout design.
 - **JavaScript** – for implementing cart interactivity and dynamic updates.
 
-##Screenshots
+## Screenshots
+
 ![Main Page Screenshot](screenshots/s1.png)
 ![Cart Page Screenshot](screenshots/s2.png)
